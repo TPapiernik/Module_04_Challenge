@@ -5,7 +5,6 @@
 We were provided with two original source data files from the School Board, as shown below in [Resources](https://github.com/TPapiernik/Module_04_Challenge#resources)
 
 ### DISCLAIMER
-|-
 |At the outset, it should be noted that the School Board has identified that reading and math grades may have been altered for 9th Grade Students at Thomas High School. At this time, the School Board does not know the full extend or nature of the academic dishonesty, but it certainly casts a cloud over this analysis project.|
 |-
 
