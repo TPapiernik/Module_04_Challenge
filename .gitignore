@@ -32,8 +32,10 @@ MANIFEST
 .DS_Store
 *.un~
 *.md~
+*.swp
 .gitignore~
 ..gitignore.un~
+*_NAMES.txt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
