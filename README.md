@@ -1,5 +1,9 @@
 # Module 04 Challenge - School District Analysis
 
+|FERPA (Family Educational Rights and Privacy Act of 1974) COMPLIANCE
+|:-
+|Student ID Numbers, Student Names, and Student Genders are currently present within the `students_complete.csv` file provided by the School Board. This information is not disclosed and is kept private in all of the summary statistics contained within this report. However, it should be noted that this source data is currently hosted on a publicly accessible GitHub Repository for review. While not explicitly in violation of FERPA Regulations, for heightened security and privacy of this sensitive data, secure-private hosting should be considered moving forward. Alternatively, the data should be sufficiently anonymized prior to public hosting.|
+
 ## Project Overview
 The School Board desired an analysis of School District data to help with budgeting and planning.
 
@@ -27,13 +31,9 @@ The results desired were:
 
 We were provided with two original source data files from the School Board, as shown below in [Resources](https://github.com/TPapiernik/Module_04_Challenge#resources). These two source data files contained information for each school and student within the district. This information was combined, cross-referenced, and summarized to produce the results discussed here in this report.
 
-### FERPA (Family Educational Rights and Privacy Act of 1974) COMPLIANCE
-|Student ID Numbers, Student Names, and Student Genders are currently present within the `students_complete.csv` file provided by the School Board. This information is not disclosed and is kept private in all of the summary statistics contained within this report. However, it should be noted that this source data is currently hosted on a publicly accessible GitHub Repository for review. While not explicitly in violation of FERPA Regulations, for heightened security and privacy of this sensitive data, secure-private hosting should be considered moving forward. Alternatively, the data should be sufficiently anonymized prior to public hosting.|
-|-
 
 ### DISCLAIMER
 |At the outset, it should be noted that the School Board has identified that reading and math scores may have been altered for 9th Grade Students at Thomas High School. At this time, the School Board does not know the full extend or nature of the academic dishonesty.|
-|-
 
 Therefore, the purpose of this analysis was threefold:
 1. Calculate summary statistics for the entire school district, reporting them in a variety of formats.
