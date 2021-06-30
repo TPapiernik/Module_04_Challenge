@@ -71,7 +71,7 @@ Before starting the rest of the analysis, the Student Names in `students_complet
 
 Figure 1: District-Wide Summary (Pre-Correction)
 
-[!Figure 1](Analysis/Fig_1_Dist_Wide_original.png "Figure 1")
+![Figure 1](Analysis/Fig_1_Dist_Wide_original.png "Figure 1")
 
 Figure 2: District-Wide Summary (Post-Correction)
 
