@@ -63,4 +63,16 @@ Therefore, the purpose of this analysis was threefold:
 ## Results
 
 ### Data Quality
-Prior to beginning the main discussion of results, it should be noted that some of the Student Name records presented in the `students_complete.csv` corpus were corrupted with inaccurate name Prefixes and Suffixes such as "Dr.", "DDS", and "Miss". It is not known exactly how or when these modifications made their way into the dataset, but somewhere along the line it can most-likely be attributed to a combination of clerical error and misdirected application of youthful exhuberance.
+Prior to beginning the main discussion of results, it should be noted that some of the Student Name records presented in the `students_complete.csv` corpus were found to contain inaccurate name Prefixes and Suffixes such as "Dr.", "DDS", and "Miss". It is not known exactly how or when these incorrect modifications made their way into the dataset, but it can guessed that it is due to some combination of clerical error and misdirected application of youthful exhuberance.
+
+Before starting the rest of the analysis, the Student Names in `students_complete.csv` were edited to remove the prefixes and suffixes Dr., Mr., Ms., Mrs., Miss, MD, DDS, DVM, and PhD. Other suffixes such as Jr., II, III, etc. were left in place. Overall, 1,402 student names were corrected in this manner. Should the School Board wish to receive a list of the names for upstream correction, it can be furnished upon request.
+
+### District-Wide Summary
+
+Figure 1: District-Wide Summary (Pre-Correction)
+
+[!Figure 1](Analysis/Fig_1_Dist_Wide_original.png "Figure 1")
+
+Figure 2: District-Wide Summary (Post-Correction)
+
+[!Figure 2](Analysis/Fig_2_Dist_Wide_corrected.png "Figure 2")
