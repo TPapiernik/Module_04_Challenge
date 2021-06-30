@@ -67,6 +67,8 @@ Prior to beginning the main discussion of results, it should be noted that some 
 
 Before starting the rest of the analysis, the Student Names in `students_complete.csv` were edited to remove the prefixes and suffixes Dr., Mr., Ms., Mrs., Miss, MD, DDS, DVM, and PhD. Other suffixes such as Jr., II, III, etc. were left in place. Overall, 1,402 student names were corrected in this manner. Should the School Board wish to receive a list of the names for upstream correction, it can be furnished upon request.
 
+Besides the previously-mentioned qualifications, the dataset otherwise appears to be uniform, rectangular, and consistent.
+
 ### District-Wide Summary
 
 Figure 1: District-Wide Summary (Pre-Correction)
@@ -80,4 +82,23 @@ Figure 2: District-Wide Summary (Post-Correction)
 
 ### Per-School Summary
 
+#### Top 5 Schools
+
+Figure 3: Top 5 Schools (Pre-Correction)
+
+![Figure 3](Analysis/Fig_3_Top_5_original.png "Figure 3")
+
+Figure 4: Top 5 Schools (Post-Correction)
+
+![Figure 4](Analysis/Fig_4_Top_5_corrected.png "Figure 4")
+
+#### Bottom 5 Schools
+
+Figure 5: Bottom 5 Schools (Pre-Correction)
+
+![Figure 5](Analysis/Fig_5_Bottom_5_original.png "Figure 5")
+
+Figure 6: Bottom 5 Schools (Post-Correction)
+
+![Figure 6](Analysis/Fig_6_Bottom_5_corrected.png "Figure 6")
 
