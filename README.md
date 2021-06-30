@@ -75,4 +75,4 @@ Figure 1: District-Wide Summary (Pre-Correction)
 
 Figure 2: District-Wide Summary (Post-Correction)
 
-[!Figure 2](Analysis/Fig_2_Dist_Wide_corrected.png "Figure 2")
+![Figure 2](Analysis/Fig_2_Dist_Wide_corrected.png "Figure 2")
