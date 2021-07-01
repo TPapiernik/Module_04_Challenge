@@ -79,22 +79,22 @@ Firstly--at least from a mathematical standpoint--the inclusion or exclusion of 
 
 Moving forward, there are some overall conclusions that can be drawn from the rest of the analysis:
 
-- District-wide, approximately 10% more students pass Reading than Math
-- All of the Top 5 Schools are Charter Schools, and All of the Bottom 5 Schools are Conventional District Schools
-- From a broad perspective, All Charter Schools have similar results with little variance between Average Scores among them, and similarly All District Schools have similar results with little variance between Average Scores among them.
-- Within a given school, Average Scores for each subject are relatively constant between grade levels.
-- Average Scores, particularly in Math, and % Overall Passing are Negatively Correlated with per-capita spending per student. It should be noted, however, that this is also directly tied to the differences in spending between Charter Schools and District Schools. There are certainly other reasons to account for these different outcomes, which should be explored more at length. (For reference purposes, the current average Budget Allocation for the Charter Schools in the District is: $912,688 per school, while for the District Schools it is: $2,478,275 per school.) 
+1. District-wide, approximately 10% more students pass Reading than Math
+2. All of the Top 5 Schools are Charter Schools, and All of the Bottom 5 Schools are Conventional District Schools
+3. From a broad perspective, All Charter Schools have similar results with little variance between Average Scores among them, and similarly All District Schools have similar results with little variance between Average Scores among them.
+4. Within a given school, Average Scores for each subject are relatively constant between grade levels.
+5. Average Scores, particularly in Math, and % Overall Passing are Negatively Correlated with per-capita spending per student. It should be noted, however, that this is also directly tied to the differences in spending between Charter Schools and District Schools. There are certainly other reasons to account for these different outcomes, which should be explored more at length. (For reference purposes, the current average Budget Allocation for the Charter Schools in the District is: $912,688 per school, while for the District Schools it is: $2,478,275 per school.) 
 	- For future discussion: Do District Schools have additional classroom and non-classroom costs that could be normalized to better account for the current apparent stark differences in academic outcomes? For example: additional purchases of books and materials, school bus transportation, school lunches, sports programs, additional staff, extra maintenance, security, etc.? Just at a glance, the average enrollment at the District Schools is 2.5 times the size of the average enrollment at the Charter Schools. It might not be fair to do an apples-to-apples comparison between them prior to normalizing for other factors.
-- The results by School Size mirror the results by per-capita spending, and can likely largely be explained in the same manner as the Charter vs. District School comparison outlined in the previous bullet.
+6. The results by School Size mirror the results by per-capita spending, and can likely largely be explained in the same manner as the Charter vs. District School comparison outlined in the previous bullet.
 
 ### Future Work and Recommendations
 
-- Consider longitudinal observation and analysis of individual student scores, both as a way to track progress, and/or to aid in the discovery of academic dishonesty.
-- Consider separate analysis and discussion of results among Charter Schools and District Schools.
+1. Consider longitudinal observation and analysis of individual student scores, both as a way to track progress, and/or to aid in the discovery of academic dishonesty.
+2. Consider separate analysis and discussion of results among Charter Schools and District Schools.
 	- Alternatively, perform more extensive normalization of budget figures prior to comparison.
 	- Are Charter Schools really achieving More with Less?
-- As the questions: What isn't working with Math Instruction that is working for Reading Instruction? and How are Charter Schools achieving overall better academic results, particularly in the field of Math?
-- If feasible over the long-term, could reducing the total enrollment per school at the District Schools help with academic results? Could students be transferred to the Charter Schools to lessen the burden at the District Schools, or could new District Schools be built?
+3. As the questions: What isn't working with Math Instruction that is working for Reading Instruction? and How are Charter Schools achieving overall better academic results, particularly in the field of Math?
+4. If feasible over the long-term, could reducing the total enrollment per school at the District Schools help with academic results? Could students be transferred to the Charter Schools to lessen the burden at the District Schools, or could new District Schools be built?
 
 ## List of Figures
 
