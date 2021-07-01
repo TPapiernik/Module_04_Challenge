@@ -128,12 +128,33 @@ Figure 10: Average Reading Scores by School, by Grade Level (Post-Correction)
 
 ### Additional Analysis
 
-#### Per-Capita Spending by School
+#### Per-Capita Spending by School Summary
 
+Figure 11: Summary of Results by Per-Capita Spending per Student (Pre-Correction)
 
+![Figure 11](Analysis/Fig_11_Per_Capita_Summary_original.png "Figure 11")
 
-#### School Size
+Figure 12: Summary of Results by Per-Capita Spending per Student (Post-Correction)
 
+![Figure 12](Analysis/Fig_12_Per_Capita_Summary_corrected.png "Figure 12")
 
+#### School Size Summary
 
-#### School Type
+Figure 13: Summary of Results by School Size (Pre-Correction)
+
+![Figure 13](Analysis/Fig_13_Size_Summary_original.png "Figure 13")
+
+Figure 14: Summary of Results by School Size (Post-Correction)
+
+![Figure 14](Analysis/Fig_14_Size_Summary_corrected.png "Figure 14")
+
+#### School Type Summary
+
+Figure 15: Summary of Results by School Type (Pre-Correction)
+
+![Figure 15](Analysis/Fig_15_Type_Summary_original.png "Figure 15")
+
+Figure 16: Summary of Results by School Type (Post-Correction)
+
+![Figure 16](Analysis/Fig_16_Type_Summary_corrected.png "Figure 16")
+
