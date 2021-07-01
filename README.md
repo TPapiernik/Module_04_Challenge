@@ -102,3 +102,21 @@ Figure 6: Bottom 5 Schools (Post-Correction)
 
 ![Figure 6](Analysis/Fig_6_Bottom_5_corrected.png "Figure 6")
 
+#### Average Math and Reading Scores by School, by Grade Level
+
+Figure 7: Average Math Scores by School, by Grade Level (Pre-Correction)
+
+![Figure 7](Analysis/Fig_7_Math_by_Grade_original.png "Figure 7")
+
+Figure 8: Average Math Scores by School, by Grade Level (Post-Correction)
+
+![Figure 8](Analysis/Fig_8_Math_by_Grade_corrected.png "Figure 8")
+
+Figure 9: Average Reading Scores by School, by Grade Level (Pre-Correction)
+
+![Figure 9](Analysis/Fig_9_Reading_by_Grade_original.png "Figure 9")
+
+Figure 10: Average Reading Scores by School, by Grade Level (Post-Correction)
+
+![Figure 10](Analysis/Fig_10_Reading_by_Grade_corrected.png "Figure 10")
+
