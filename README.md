@@ -69,6 +69,12 @@ Before starting the rest of the analysis, the Student Names in `students_complet
 
 Besides the previously-mentioned qualifications, the dataset otherwise appears to be uniform, rectangular, and consistent.
 
+### Summary of Results
+
+See List of Figures below.
+
+## List of Figures
+
 ### District-Wide Summary
 
 Figure 1: District-Wide Summary (Pre-Correction)
@@ -120,3 +126,14 @@ Figure 10: Average Reading Scores by School, by Grade Level (Post-Correction)
 
 ![Figure 10](Analysis/Fig_10_Reading_by_Grade_corrected.png "Figure 10")
 
+### Additional Analysis
+
+#### Per-Capita Spending by School
+
+
+
+#### School Size
+
+
+
+#### School Type
