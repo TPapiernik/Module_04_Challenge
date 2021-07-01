@@ -71,7 +71,7 @@ Besides the previously-mentioned qualifications, the dataset otherwise appears t
 
 ### Summary of Results
 
-See List of Figures below.
+See [List of Figures](https://github.com/TPapiernik/Module_04_Challenge#list-of-figures) below.
 
 ## List of Figures
 
