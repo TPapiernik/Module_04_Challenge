@@ -77,6 +77,18 @@ As stated above in [Project Overview](https://github.com/TPapiernik/Module_04_Ch
 
 Firstly--at least from a mathematical standpoint--the inclusion or exclusion of the 9th Grade Thomas High School scores mattered very little to the overall results. When considering the Top 5 Schools based on % Overall Passing, the Average Math Score of Thomas High School remained the same, while the Average Reading Score changed to 83.9% from 83.8% (Figures 3 & 4). The implications of this result show that whatever sort of Academic Dishonesty took place with these scores, it is difficult to discern, at least by using the summary statistics available. It is plain to say that of course this is the intended outcome of cheating. If abnormally low or abnormally high scores were present among the student scores within this grade, it would be readily discovered using conventional statistical methods. At present, actual scores are unavailable for students within this grade at Thomas High School, therefore they were wholly excluded as can be seen in (Figures 8 & 10).
 
+Restating these conclusions in the format they were requested in the brief:
+- **How is the district summary affected?:** Average Math Score drops to 78.93% from 78.98%, and Average Reading Score remained unchanged.
+- **How is the school summary affected?:** Thomas High School Average Math Score drops to 83.35% from 83.42%, and Thomas High School Average Reading Score remained unchanged.
+- **How does replacing the ninth graders' scores affect Thomas High School's performance relative to the other schools?** Their relative performance remains unchanged.
+- **How does replacing the ninth-grade scores affect the following:**
+	- *Math and reading scores by grade:* Unchanged, with the exception of the replaced scores themselves.
+	- *Scores by school spending:* Unchanged.
+	- *Scores by school size:* Unchanged.
+	- *Scores by school type:* Unchanged.
+
+In summary, there were 4 changes in the updated analysis as a result of discounting the Thomas High School ninth-grade scores: 1.) Reduction in district-wide Average Math Score, 2.) Reduction in Thomas High School Average Math Score, 3.) No Data for Thomas High School 9th Grade Math Scores, 4.) No Data for Thomas High School 9th Grade Reading Scores.
+
 Moving forward, there are some overall conclusions that can be drawn from the rest of the analysis:
 
 1. District-wide, approximately 10% more students pass Reading than Math
